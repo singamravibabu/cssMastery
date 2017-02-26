@@ -1,4 +1,4 @@
-# cssMasteryExamples
+# cssMastery
 This repository accompanies CSS Mastery by Simon Collison, Andy Budd, and Cameron Moll (Apress, 2009).
 
 原始库：https://github.com/Apress/css-mastery/
